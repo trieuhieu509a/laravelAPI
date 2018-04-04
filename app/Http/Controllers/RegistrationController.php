@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Meeting;
+use App\User;
 use Illuminate\Http\Request;
 
 class RegistrationController extends Controller
